@@ -1,0 +1,47 @@
+.Sec-Right{
+    height: 500px;
+    width: auto;
+    overflow: hidden;
+}
+.productImgSm{
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border: solid;
+    border-radius: 5px;
+    margin:5px;
+}
+.productImgSm:hover{
+    box-shadow: 2px 3px 20px rgb(102, 100, 100);
+}
+.Sec-Right h2{
+    font-family: mv boli;
+}
+.Sec-Right p{
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: mv boli;
+}
+.time-Btn{
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.buy-Btn{
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 30px;
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 7px 5px 10px black;
+}
+.buy-Btn:hover {
+    padding: 12px 35px;
+    cursor: pointer;
+    background-color: rgb(156, 250, 15);
+}

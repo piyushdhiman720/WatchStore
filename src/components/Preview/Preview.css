@@ -1,0 +1,29 @@
+.productImg{
+    cursor: pointer;
+    width: 40%;
+    height: 500px;
+    float: left;
+    background-color: rgb(161, 161, 161);
+}
+.timeSection{
+    position: absolute;
+    margin-top: 208px;
+    margin-left: 222px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #00ff64;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.heartSection{
+    position: absolute;
+    margin-top: 208px;
+    margin-left: 235px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #00ff64;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+}
