@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WatchStore/static/css/main.3fe24a3f.chunk.css",
+    "main.js": "/WatchStore/static/js/main.96a1847c.chunk.js",
+    "main.js.map": "/WatchStore/static/js/main.96a1847c.chunk.js.map",
+    "runtime-main.js": "/WatchStore/static/js/runtime-main.f995bd4c.js",
+    "runtime-main.js.map": "/WatchStore/static/js/runtime-main.f995bd4c.js.map",
+    "static/js/2.f7b1d489.chunk.js": "/WatchStore/static/js/2.f7b1d489.chunk.js",
+    "static/js/2.f7b1d489.chunk.js.map": "/WatchStore/static/js/2.f7b1d489.chunk.js.map",
+    "static/js/3.8e29220e.chunk.js": "/WatchStore/static/js/3.8e29220e.chunk.js",
+    "static/js/3.8e29220e.chunk.js.map": "/WatchStore/static/js/3.8e29220e.chunk.js.map",
+    "index.html": "/WatchStore/index.html",
+    "static/css/main.3fe24a3f.chunk.css.map": "/WatchStore/static/css/main.3fe24a3f.chunk.css.map",
+    "static/js/2.f7b1d489.chunk.js.LICENSE.txt": "/WatchStore/static/js/2.f7b1d489.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f995bd4c.js",
+    "static/js/2.f7b1d489.chunk.js",
+    "static/css/main.3fe24a3f.chunk.css",
+    "static/js/main.96a1847c.chunk.js"
+  ]
+}
